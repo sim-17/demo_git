@@ -1,3 +1,5 @@
 un fichier texte super!
 
 une modif depuis git
+
+maintenant une modification en local.
