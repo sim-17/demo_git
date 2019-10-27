@@ -4,8 +4,4 @@ une modif depuis git
 
 maintenant une modification en local.
 
-<<<<<<< HEAD
 je se suis dans ma branche master.
-=======
-je suis dans la nouvelle branche.
->>>>>>> nouvelle-branche
